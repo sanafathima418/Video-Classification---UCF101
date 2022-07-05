@@ -12,7 +12,8 @@ We plan on tackling these challenges by performing video analysis to assign vide
 We are using the Action Recogniton dataset- UCF-101 to identify human actions in videos. <br />
 Total Number of samples: 13,320 video clips <br />
 Train Data Size: 9537 video clips <br />
-Test Data Size: 3783 video clips Number of Class Labels: 101 action categories <br />
+Test Data Size: 3783 video clips <br /> 
+Number of Class Labels: 101 action categories <br />
 Frame Rate (chosen): 5 FPS
 
 ## Approach
