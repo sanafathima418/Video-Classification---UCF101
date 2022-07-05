@@ -20,8 +20,7 @@ Frame Rate (chosen): 5 FPS
 
 We are using 3 different CNN models to perform multi-class classification on the videos. <br />
 - Conversion of Videos to Images: Using OpenCV at 5 frames/second <br />
-- Creation of Feature Vectors for Images: <br />
-- Using pre-trained models ResNet-18, VGG-11 and AlexNet <br />
+- Creation of Feature Vectors for Images: Using pre-trained models ResNet-18, VGG-11 and AlexNet <br />
 - Normalization of Feature Vectors: For pixel values between 0 and 1 <br />
 - Multi-Class Classification: Fully Connected Layers with a last softmax layer to perform multi-class classification of images extracted <br />
 
