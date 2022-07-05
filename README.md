@@ -45,5 +45,5 @@ The predicted labels are compared against the actual label to evaluate the perfo
 |-----|----------|---------------|
 | Exp. 1 | ResNet-18 + MLP | 69.78% | 
 | Exp. 2 | VGG-11 + MLP    | 67.22% |
-| Exp. 3 | AlexNet + MLP.  |  54.4% |
+| Exp. 3 | AlexNet + MLP  |  54.4% |
 
