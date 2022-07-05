@@ -1,7 +1,7 @@
 # Video-Classification - UCF101
 
 ## Problem Space
-Video captures a cross-secton of our society. Major advances in analyzing and understanding video have the potental to touch all aspects of life from learning and communicaton to entertainment and play. A subset of the video analysis problem is human acton recogniton which involves analysis of realistic acton videos.
+Video captures a cross-secton of our society. Major advances in analyzing and understanding video have the potental to touch all aspects of life from learning and communicaton to entertainment and play. A subset of the video analysis problem is human acton recogniton which involves analysis of realistic acton videos.<br />
 Example: Skiing, Juggling Balls, Horse Riding
 
 Action recogniton on large categories of unconstrained videos taken from the web is a very challenging problem due to challenges arising from camera motion, clutered background, bad illuminaton conditons, and poor quality of web videos cause the majority of the state-of-the-art approaches to fail.
