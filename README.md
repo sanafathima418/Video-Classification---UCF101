@@ -37,7 +37,7 @@ We are using 3 different CNN models to perform multi-class classification on the
 <img width="450" alt="AlexNet_A" src="https://user-images.githubusercontent.com/29837264/177226702-617c7b74-11b2-481b-ba9f-50ca36116d10.png">
 
 
-## Result
+## Results
 
 The predicted labels are compared against the actual label to evaluate the performance of the model using the accuracy score. 
 
